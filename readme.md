@@ -1,3 +1,3 @@
-#IA GOVERN
+#AI GOVERN
 
-IA govern is a Role-playing game which consists in a future where people don't have patience to choose their leaders. Based on this, a 
+AI govern is a Role-playing game which consists in a future where people don't have patience to choose their leaders. Based on this, an AI has been programmed to logically decide the best paths to social well-being.
